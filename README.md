@@ -12,4 +12,14 @@ We may or may not include node v itself for the calculation.
 Do this on any of the files
 ```python centrality_by_company_labor.py```
 # This is what you should see when you run the files
-![file 1](network-diagrams-generated-in-Python/sample_results/image(1).png)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image%20(1).png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image%20(2).png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image%20(3).png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image%202.png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image%203.png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image%204.png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image.png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image1.png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image%20(4).png?raw=true)
+![file 1](https://github.com/DAN-BIWOTT/network-diagrams-generated-in-Python/blob/main/sample_results/image%20(5).png?raw=true)
+
