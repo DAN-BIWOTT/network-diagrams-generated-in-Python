@@ -11,3 +11,5 @@ We may or may not include node v itself for the calculation.
 # Running The Code
 Do this on any of the files
 ```python centrality_by_company_labor.py```
+# This is what you should see when you run the files
+![Image of Yaktocat](sample_results/image (1).png)
